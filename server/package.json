@@ -1,0 +1,17 @@
+{
+  "name": "resize_action",
+  "version": "0.0.1",
+  "description": "Action to resize an image",
+  "dependencies": {
+    "sharp": "*",
+    "request": "*",
+    "q": "*",
+    "body-parser": "^1.11.0",
+    "btoa": "^1.1.2",
+    "express": "^4.11.2",
+    "log4js": "^0.6.20",
+    "yauzl": "^2.3.1"
+},
+  "main": "app.js",
+  "author": "Shaun Murakami"
+}
